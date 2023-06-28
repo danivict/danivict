@@ -1,9 +1,11 @@
 <center>
-<h3>Ola! Eu sou o Daniel Lemos 👋💻</h3>
+<h2>Ola! Eu sou o Daniel Lemos 👋💻</h2>
 </center>
 <center>Aqui você descobre com o que já trabalhei e o que estou aprendendo ✍️ </center>
 <br></br>
-<center style="line-height: 50px">🔭 Tenho experiência com:</center>
+<center style="line-height: 50px">
+<h4>🔭 Tenho experiência com:</h4>
+</center>
 <center></center>
 <center></center>
 
@@ -13,7 +15,10 @@
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 </center>
 <center style="line-height: 50px">
+<h4></h4>
+<h4>
 🌱 Estou atualmente aprendendo:
+</h4>
 </center>
 <center>
 
@@ -23,7 +28,9 @@
 </center>
 
 <center style="line-height: 50px">
+<h4>
 📫 Como entrar em contato comigo:
+</h4>
 </center>
 <center>
 
@@ -31,14 +38,16 @@
 </center>
 
 <center style="line-height: 50px">
+<h4>
 🕹️ Alguns hobbies:
+</h4>
 </center>
 <center>
 
 
 Animes 🍙
 Bateria 🥁
-Videogame 🎮
+Videogames 🎮
 </center>
 
 
